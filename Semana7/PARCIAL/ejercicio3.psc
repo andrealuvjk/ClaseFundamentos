@@ -2,7 +2,7 @@ Algoritmo ejercicio3
 	Definir num Como Entero
 	Escribir "Ingrese un num para conocer su dia de semana"
 	leer num
-	
+
 	Segun num Hacer
 		1:
 			Escribir "El dia es Lunes"

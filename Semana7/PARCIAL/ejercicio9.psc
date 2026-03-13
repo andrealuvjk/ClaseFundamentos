@@ -1,6 +1,6 @@
 Algoritmo ejercicio9
 	Definir esDivisible Como Logico
-	Definir num como entero 
+	Definir num como Real 
 	
 	Escribir "Ingrese un numero entero"
 	leer num
