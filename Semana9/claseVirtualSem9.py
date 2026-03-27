@@ -3,6 +3,7 @@ Serie = "fullmetal alchemits"
 ### cada variable tiene un espacio de memoria asignado
 
 ## cuando una vable cambia => se pierde la inmutabilidad
+
 ## POO
 ## polimorfismo -> es el cambio de acciones sin que se rompa el codigo
 ## abstracciones ->
@@ -20,6 +21,7 @@ Serie = "fullmetal alchemits"
 #############
 #  corre        ( Funciones )
 # salta
+
 
 ## Clases
 ## Estructura de datos.
@@ -44,6 +46,7 @@ def saludo(nombres):
 
 ## Colocar el nombre de la serie como titulo
 fmaTemu = Serie.title()
+
 # saludo(Serie)
 # saludo(fmaTemu)
 fnaMayusculas = Serie.upper()
@@ -138,3 +141,10 @@ print(controlarEspacio)
 
 ## Metodos de busqueda
 tema = "En el bosque de china la chinita se perdio  "
+
+saludo(Serie)
+saludo(fmaTemu)
+
+
+## deprogracion Lineal
+
