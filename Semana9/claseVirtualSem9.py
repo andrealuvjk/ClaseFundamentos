@@ -141,3 +141,11 @@ print(controlarEspacio)
 ## Metodos de busqueda
 tema = "En el bosque de china la chinita se perdio  "
 
+
+saludo(Serie)
+saludo(fmaTemu)
+
+
+## deprogracion Lineal
+
+
