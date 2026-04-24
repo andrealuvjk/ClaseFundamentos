@@ -9,4 +9,4 @@ if user == usuario and pwd == password:
     print("Acceso permitido")
 else:
     print("Acceso denegado")
-    
+        
