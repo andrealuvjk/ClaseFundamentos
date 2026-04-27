@@ -27,7 +27,7 @@ if len(notas_validas) > 0:
     # El promedio es la suma entre la cantidad de elementos (len)
     promedio = suma_total / len(notas_validas)
     
-  
+   
     print(f"Notas válidas ingresadas: {len(notas_validas)}")
     print(f"El promedio final es: {promedio:.2f}") # El :.2f es para mostrar solo 2 decimales
 else:
