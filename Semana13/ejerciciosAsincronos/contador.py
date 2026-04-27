@@ -1,5 +1,5 @@
 
-# Contadores iniciales (empiezan en cero porque aún no hemos contado nada)
+# Contadores iniciales 
 positivos = 0
 negativos = 0
 
